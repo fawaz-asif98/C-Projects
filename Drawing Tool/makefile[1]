@@ -1,6 +1,6 @@
-# Fawaz Asif - 1001875463 Coding Assignment 4
+# Fawaz Asif
 
-SRC1 = Code4_1001875463.c
+SRC1 = main.c
 SRC2 = DrawTool.c
 OBJ1 = $(SRC1:.c=.o)
 OBJ2 = $(SRC2:.c=.o)
