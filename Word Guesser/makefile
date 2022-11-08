@@ -1,6 +1,6 @@
 #Fawaz Asif
 
-SRC1 = Code5_1001875463.c
+SRC1 = main.c
 SRC2 = GameLib.c
 OBJ1 = $(SRC1:.c=.o)
 OBJ2 = $(SRC2:.c=.o)
